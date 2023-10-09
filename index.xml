@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://farseash.github.io/demo-hugo-theme-moments/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Sat, 09 Sep 2023 17:06:33 +0800</lastBuildDate><atom:link href="https://farseash.github.io/demo-hugo-theme-moments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://farseash.github.io/demo-hugo-theme-moments/moments/hahaha/</link>
+      <pubDate>Sat, 09 Sep 2023 17:06:33 +0800</pubDate>
+      
+      <guid>https://farseash.github.io/demo-hugo-theme-moments/moments/hahaha/</guid>
+      <description>这里是正文书写，董玲玲的照片啊，哈哈哈</description>
+    </item>
+    
+  </channel>
+</rss>
