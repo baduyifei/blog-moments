@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生活 on </title>
-    <link>https://farseash.github.io/demo-hugo-theme-moments/tags/%E7%94%9F%E6%B4%BB/</link>
+    <link>https://baduyifei.github.io/blog-moments/tags/%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 生活 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 09 Sep 2023 17:06:33 +0800</lastBuildDate><atom:link href="https://farseash.github.io/demo-hugo-theme-moments/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 17:06:33 +0800</lastBuildDate><atom:link href="https://baduyifei.github.io/blog-moments/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://farseash.github.io/demo-hugo-theme-moments/moments/hahaha/</link>
+      <link>https://baduyifei.github.io/blog-moments/moments/hahaha/</link>
       <pubDate>Sat, 09 Sep 2023 17:06:33 +0800</pubDate>
       
-      <guid>https://farseash.github.io/demo-hugo-theme-moments/moments/hahaha/</guid>
+      <guid>https://baduyifei.github.io/blog-moments/moments/hahaha/</guid>
       <description>这里是正文书写，董玲玲的照片啊，哈哈哈</description>
     </item>
     
